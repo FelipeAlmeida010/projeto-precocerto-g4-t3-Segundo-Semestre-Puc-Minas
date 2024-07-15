@@ -1,0 +1,35 @@
+message: Please cite this software using these metadata.
+title: Preço Certo
+authors:
+- family-names: Gonçalves Sena
+    given-names:  Eduardo
+
+  - family-names: Siqueira de Almeida
+    given-names:  Felipe
+
+  - family-names: Moreira Laignier
+    given-names:  Gabriel Yan
+
+  - family-names: Gomes de Souza
+    given-names:  Pedro Henrique
+
+  - family-names: Souza Capanema
+    given-names:  Simon Henrique
+
+  - family-names: Barbosa Ribeiro
+    given-names:  Stefany
+    
+
+- name-suffix:    Professor
+    affiliation:  PUC Minas
+    family-names: da Costa
+    given-names:  José Wilson
+
+
+keywords:
+  - Gestão
+  - Supermercados
+  - Preços
+
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-2-E2-PRECOCERTO-G4-T3
+date-released: 2023-09-15
